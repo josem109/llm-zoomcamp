@@ -14,6 +14,7 @@ warnings.warn(
 )
 
 
+        
 class Index:
     """
     A simple search index using TF-IDF and cosine similarity for text fields and exact matching for keyword fields.
